@@ -12,5 +12,19 @@ mini music project with HTML,CSS,JS and JQuery.
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 
 
+#### راهنما برای دیدن کدها و طراحی کامل با دستور:✨
+git clone https://github.com/saeed-devee/music-project.git
+
 ## نگاهی به دموی سایت: 👓
+
+![Preview 1](https://github.com/saeed-devee/music-project/blob/main/images/Previews/preview-1.PNG)
+<br><br><br><br><br><br>
+
+![Preview 2](https://github.com/saeed-devee/music-project/blob/main/images/Previews/preview-2.PNG)
+<br><br><br><br><br><br>
+
+![Preview 3](https://github.com/saeed-devee/music-project/blob/main/images/Previews/preview-3.PNG)
+<br><br><br><br><br><br>
+
+![Preview 2](https://github.com/saeed-devee/music-project/blob/main/images/Previews/preview-4.PNG)
 
